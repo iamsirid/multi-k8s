@@ -1,7 +1,7 @@
 apiVersion: cert-manager.io/v1alpha2
 kind: Certificate
 metadata:
-  name: multi-k8s-iamsiird-com-tls
+  name: multi-k8s-iamsirid-com-tls
 spec:
   secretName: multi-k8s-iamsirid-com
   issuerRef:
